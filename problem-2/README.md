@@ -11,7 +11,7 @@
 
 ## 실행 방법
 ```bash
-npx ts-node solution-2.ts
+npx ts-node problem-2/solution-2.ts
 
 ## 결과 예시
 

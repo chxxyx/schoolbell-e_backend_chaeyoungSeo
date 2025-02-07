@@ -9,7 +9,7 @@
 
 ## 실행 방법
 ```bash
-npx ts-node solution-1.ts
+npx ts-node problem-1/solution-1.ts
 
 
 ## 출력 예시

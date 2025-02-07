@@ -47,4 +47,4 @@ const grid = [
     [1, 0, 0, 1, 0]
 ];
 
-console.log(numIslands(grid)); // 출력: 4
+console.log(numIslands(grid)); // 출력: 3
